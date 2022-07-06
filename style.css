@@ -1,0 +1,316 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+
+.background-image {
+    background-image: url(images/donation13.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 700px;
+    text-align: center;
+
+
+
+}
+
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(tomato, orange);
+    color: white;
+    font-weight: 400;
+    padding: 10px 30px;
+    border-radius: 5px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border: none;
+    font-size: 20px;
+}
+
+.donate {
+    position: absolute;
+    width: 691px;
+    height: 56px;
+    left: 375px;
+    top: 873px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    /* or 156% */
+
+    text-align: center;
+    display: flex;
+
+}
+
+
+
+
+.text {
+    padding-top: 80px;
+    color: white;
+
+}
+
+.text h1 {
+    font-size: 65px;
+}
+
+.donate-plan {
+
+    position: absolute;
+    width: 357px;
+    height: 54px;
+    left: 542px;
+    top: 1415.5px;
+    ;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 54px;
+    text-align: center;
+
+    color: #121212;
+}
+
+.content-money {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.money {
+    margin-right: 52px;
+    padding: 15px 12px;
+    background-color: #fafafa;
+}
+
+#donate {
+    text-align: center;
+    color: #121212;
+    font-size: 45px;
+    font-family: verdana;
+    margin-left: 115px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+
+
+}
+
+.middle {
+    margin-top: 10px;
+    text-align: center;
+    /* font-size: 30px; */
+    /* font-family: verdana; */
+    margin-left: 115px;
+
+
+}
+
+#box {
+    background-color: lightgrey;
+    width: 60px;
+    height: 50px;
+    border: 2px solid red;
+    padding: 20px;
+}
+
+.button {
+    text-decoration: none;
+    background-image: linear-gradient(tomato, orange);
+    color: white;
+    font-weight: 400;
+    padding: 10px 30px;
+    border-radius: 5px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 700px;
+    border: none;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+hr {
+    width: 500px;
+    margin-left: 550px;
+}
+
+.second-section {
+    display: flex;
+    margin-top: 45px;
+    justify-content: center;
+
+
+}
+
+.bg1 {
+    background: rgba(79, 157, 166, 0.1);
+    border-radius: 5px;
+
+}
+
+.bg2 {
+    background: rgba(255, 89, 89, 0.1);
+    border-radius: 5px;
+}
+
+.bg3 {
+    background: #FFF4D6;
+    border-radius: 5px;
+}
+
+.background {
+    width: 30%;
+    margin-left: 22px;
+}
+
+.background .car {
+    padding-left: 38px;
+    padding-top: 60px;
+
+
+}
+
+.container-text {
+    padding-left: 38px;
+    padding-top: 35px;
+
+}
+
+.container-text h2 {
+    padding-bottom: 20px;
+}
+
+.container-text p {
+    padding-bottom: 90px;
+    line-height: 30px;
+}
+
+.third-section {
+    display: flex;
+    margin-top: 120px;
+}
+
+.container-text1 {
+    width: 50%;
+    margin-top: 25px;
+    margin-left: 45px;
+
+
+}
+
+.photo {
+    margin-right: 70px;
+    width: 50%;
+    height: 100px;
+}
+
+.container-text1 h1 {
+    padding: 20px;
+    margin-left: 50px;
+    font-size: 50px;
+    word-spacing: 3px;
+
+}
+
+.container-text1 p {
+    margin-left: 68px;
+}
+
+.container-text1 button {
+    margin-left: 69px;
+}
+
+.middle1 {
+    margin-top: 10px;
+    text-align: center;
+    /* font-size: 30px; */
+    /* font-family: verdana; */
+    margin-left: 115px;
+}
+
+.five-section {
+    background: #FFF4D6;
+    width: 600px;
+    height: 200px;
+    display: flex;
+    margin-top: 65px;
+    margin-left: 500px;
+    text-align: center;
+}
+
+.update {
+    margin: 0 auto;
+    margin-top: 50px;
+
+}
+
+#Email {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    background-color: white;
+    border-radius: 3px;
+    color: black;
+    margin-top: 40px;
+}
+
+#button {
+    padding: 10px;
+    background-color: rgb(237, 35, 35);
+    border-radius: 3px;
+    color: white;
+    margin-right: 5px;
+    margin-top: 40px;
+    border: outline none;
+}
+
+.bt {
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.humble {
+    text-align: center;
+    padding: 50p x 20px;
+    background-color: black;
+    color: #FF5959;
+    font-weight: 700;
+    font-size: 20px;
+    height: 100px;
+    margin-top: 150px;
+}
+
+footer p {
+    text-align: center;
+    color: white;
+    font-size: 10px;
+    font-weight: 400px;
+    font-family: 'Manrope';
+}
+
+.humble h3 {
+    font-family: 'Lobster';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    color: #FF5959;
+}
