@@ -4,8 +4,7 @@
 }
 
 body {
-    font-family: 'Poppins', sans-serif;
-    font-family: 'Quicksand', sans-serif;
+
     font-family: 'Roboto', sans-serif;
 
 }
@@ -273,7 +272,7 @@ hr {
 }
 
 #button {
-    padding: 10px;
+    padding: 9px;
     background-color: rgb(237, 35, 35);
     border-radius: 3px;
     color: white;
@@ -289,7 +288,7 @@ hr {
 
 .humble {
     text-align: center;
-    padding: 50p x 20px;
+    padding: 50px 0;
     background-color: black;
     color: #FF5959;
     font-weight: 700;
@@ -304,13 +303,16 @@ footer p {
     font-size: 10px;
     font-weight: 400px;
     font-family: 'Manrope';
+    padding-bottom: 50px;
 }
 
 .humble h3 {
-    font-family: 'Lobster';
+    font-family: 'Lobster', cursive;
     font-style: normal;
     font-weight: 400;
     font-size: 36px;
     line-height: 44px;
     color: #FF5959;
+
+
 }
