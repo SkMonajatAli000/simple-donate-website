@@ -263,8 +263,8 @@ hr {
 #Email {
     padding-left: 20px;
     padding-right: 20px;
-    padding-top: 9px;
-    padding-bottom: 9px;
+    padding-top: 9.5px;
+    padding-bottom: 9.5px;
     background-color: white;
     border-radius: 3px;
     color: black;
@@ -272,7 +272,7 @@ hr {
 }
 
 #button {
-    padding: 9px;
+    padding: 10px;
     background-color: rgb(237, 35, 35);
     border-radius: 3px;
     color: white;
